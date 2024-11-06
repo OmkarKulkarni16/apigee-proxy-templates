@@ -1,0 +1,10 @@
+
+                    {
+                        "API_NAME": "ShreyaAPI",
+                        "BASE_PATH": "/api/shreyaapi",
+                        "TARGET_SERVER_NAME": "NEwTAREGT",
+                        "HOSTNAME": "www.google.com",
+                        "PORT": "443",
+                        "ENVIRONMENT": "eval"
+                    }
+                    
